@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618933432 source:c:\probleme pregatire\pbinfo\calendar1\main.cpp
+	<iostream>
+	<fstream>
+
